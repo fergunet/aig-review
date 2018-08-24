@@ -1,0 +1,49 @@
+Los juegos de ordenador han estado ligados a la investigación de la Inteligencia Artificial desde su inicio.  La investigación IA no sólo se ha beneficiado de usar como base juegos clásicos como el ajedrez o el Go para avanzar, sino que recientemente los videojuegos, como por ejemplo StarCraft \cite{} se han convertido en testbeds de facto para probar nuevas técnicas y métodos. Además, la industria de los videojuegos se ha afianzado como uno de los grandes pilares de entrenimiento, obteniendo más beneficios que otras industrias, como la cinematógrafica, e incluso permitiendo la profesionalización de los jugadores.
+
+
+
+Recientemente, muchas Universidades están ofreciendo a los estudiantes planes de estudios relacionados con el desarrollo de videojuegos, por lo que surge la necesidad de nuevos materiales de enseñanza que cubran distintas ramas, como la Ingeniería del Software, Control de calidad o Inteligencia Artificial. Es en este último campo donde este libro puede ser de más utilidad. Es por ello, que los profesores Georgios N. Yannakais (Director del Instituto de Juegos Digitales de la Universidad de Malta) y Julian Togelius (Co-director of the Game Innovation Lab of the New York University) han decidido escribir este libro. Ambos son expertos referentes dentro del ámbito de la inteligencia computacional en juegos, con publicaciones conjuntas desde hace más de 10 años. Además, han sido organizadores de congresos como el CIG o AIIDE, y son editores de la revista "IEEE Transactions on Computational Intelligence and AI in Games".
+
+
+Actualmente existen otros libros que tratan sobre AI en juegos, como por ejemplo "Artificial Intelligence for Games" de Ian Millington \cite{}, o exclusivos para motores de desarrollo concretos (como Unity). Sin embargo, lo que distingue este libro de los demás es que no sólo se centra en programación de IAs para NPC (Non Playable Characters) en videojuegos, si no que extiende su utilización a otros ámbitos como la generación de contenidos (por ejemplo, la generación de terrenos o ficción interactiva) o el modelado de jugadores humanos (como el análisis de sentimientos o el comportamiento al jugar).
+
+
+El libro está estructurado en tres partes. La primera parte ofrece una visión del estado del arte actual, y las distintas técnicas existentes que se pueden aplicar, como la Computación Evolutiva o el Machine Learning, explicando los métodos más importantes de cada rama y mostrando ejemplos de uso en juegos reales. 
+
+La segunda parte explica cómo usar la IA en Juegos en tres bloques: diseño de juegos, modelado de jugadores humanos y generación de contenido, ofreciendo distintas taxonomías de clasificación. Particularmente interesante es la clasificación de juegos basándose en la observabilidad, estocasticidad y granularidad en el tiempo y qué técnica es la más recomendable en cada situación. Al igual que en la sección anterior, cada tema se explica con una gran cantidad de ejemplos, incluyendo juegos disponibles en el mercado, y no solo limitándose al modelado de NPC. Por ejemplo, se explica el uso de SOM para modelar y clasificar los tipos de jugadores que juegan al juego {\em Tomb Raider: Underworld}.
+
+La última sección del libro indica posibles areas de exploración, y cómo las diferentes áreas y tópicos pueden interactuar, así como las frontereas de investigación.
+
+
+El libro es fácil de leer y seguir, ya que cada parte está bien estructurada y ofrece resúmenes al final de cada capítulo, incluyendo más de 800 referencias bibliográficas que serán de utilidad a los interesados en profundizar en cualquier tópico descrito. Un gran acierto es que se utiliza el mismo videojuego de ejemplo (Ms. Pacman) como base para explicar cada una de las técnicas descritas. Además, cuenta con un gran número de figuras a color que ayudan a afianzar los conocimientos, ya sea describiendo un esquema o mostrando la aplicación de una técnica en un juego concreto. Finalmente, el libro cuenta con una página web asociada ( \url{http://gameaibook.org} ) que ofrece material adicional, como transparencias, referencias y software. Al final de cada capítulo se muestra una lista de posibles ejercicios a desarrollar por el lector, invitándole a desarrollar distintas técnicas explicadas. Estos ejercicios no están resueltos, sino que son diversas preguntas ofrecidas de forma general y que pueden ofrecerse a los alumnos como asignaciones. Los materiales para los ejercicios están disponibles en la página web del libro, junto con enlaces a los frameworks y datasets que el lector puede usar y que son actualizados a menudo. 
+
+Este libro está orientado a estudiantes y profesores de Inteligencia Artificial y Juegos y sirve tanto como libro de texto para asignaturas relacionadas con la temática, como manual de referencia y para afianzar conocimientos.  Aunque los lectores de esta revista no encontrarán muchos ejemplos de cómo usar GP directamente, sí encontrarán de interés las técnicas propuestas para evaluar agentes o generadores de contenido. Es también importante indicar que este libro no sólo está orientado al mundo académico. Los desarrolladores profesionales de videojuegos también pueden acercarse a él, debido a su enfoque más introductorio y a que prescinde de mucha jerga científica, aunque sería recomendable una pequeña base, como un curso introductorio de IA.
+
+
+It should make clear who you think would benefit from buying a copy of
+the book. Eg: University libraries, the GP or EHW specialist,
+Artificial Intelligence or Machine Learning PhD students, electrical
+engineering undergraduate students, everybody, nobody.
+How many of GP+EM's readers will find the book of interest?
+Does it provide a good comprehensive cover of its topic?
+El libro proporciona una descripción clara de distintas 
+Is it easy to read and follow?
+
+Does it provide exercises (for the student)?
+
+
+If so does it give the answers, to all exercises?
+Are the answers correct?
+Is sufficient information given in the answers?
+Are there other books on the same topic to which you could compare it?
+
+How well is it written?
+Be specific in your review (avoid "some issues", explicitly say what they are in your review).
+What does the book actually cover? It is not necessary to cover each chapter to the same level of detail.
+
+How many chapters and appendices are there in the book?
+Does it leave out some topics it might have covered?
+Who is the author?
+
+
+
