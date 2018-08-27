@@ -1,18 +1,31 @@
 \documentclass{article}
 \usepackage{url}
+\usepackage{authblk}
 
 \begin{document}
 
 \title{Book Review: Artificial Intelligence and Games}
-\author{Pablo Garc\'ia-S\'anchez}
+\author[1]{Pablo Garc\'ia-S\'anchez}
+\affil[1]{\texttt{pablo.garciasanchez@uca.es}. Department of Computer Engineering. ESI. Avenida de la Universidad 10, 11519 Campus Universitario de Puerto Real. University of C\'adiz. C\'adiz, Spain}
+\date{}                     %% if you don't need date to appear
+\setcounter{Maxaffil}{0}
+\renewcommand\Affilfont{\itshape\small}
+
 
 \maketitle
+
+Book information:
+\begin{itemize}
+\item Title: Artificial Intelligence and Games
+\item Authors: Georgios N. Yannakakis and Julian Togelius
+\item DOI: https://doi.org/10.1007/978-3-319-63519-4 Copyright Information: Springer International Publishing AG 2018. Publisher Name: Springer, Print ISBN: 978-3-319-63518-7, Online ISBN: 978-3-319-63519-4 
+\end{itemize}
 
 Computer games have been tied to the research of Artificial Intelligence since its beginning \footnote{This is the basis of the plot for the film ``Wargames'' (1983).}.  Research on AI has not only benefited from using classic games, such as chess or Go, as a basis for advancement, but recently modern videogames such as {\em StarCraft} have become {\em de facto} testbeds to test new techniques and methods \cite{Ontanon13Survey}. In addition, the videogame sector has established itself as one of the great pillars of the current entertainment industry, competing in revenues with other markets, such as the film sector, and even allowing the professionalization of players.
 
 Nowadays, many universities are offering students curricula related to the development of videogames, so there is a need for new teaching materials that cover the different branches of this discipline, such as Software Engineering, Testing, Quality Control, Artificial Intelligence and Player Modelling. Unfortunately, there is a lack of textbooks covering the last two branches.  For this reason, Professors Georgios N. Yannakais (Director of the Institute of Digital Games at the University of Malta) and Julian Togelius (Co-director of the Game Innovation Lab of the New York University) have decided to write this book. Both are experts in the field of computational intelligence in games, with joint publications for more than 10 years. They have also organized conferences such as the IEEE CIG (now IEEE COG) \footnote{\url{http://www.ieee-cig.org/}} or AIIDE \footnote{\url{https://www.aaai.org/Conferences/AIIDE/aiide.php}}, and have occupied the position of editors of the journal  ``IEEE Transactions on Computational Intelligence and AI in Games'', among others.
 
-There are currently other books that deal with AI in games, such as Millington and Funges's ``Artificial Intelligence for Games''\cite{millington09artificial}, or exclusive to specific development engines (such as Unity \cite{unity17}). However, what distinguishes this book from the others is that it not only focuses on programming AIs for NPC (Non Playable Characters) in videogames, but also extends its use to other areas such as content generation (for example, terrain generation or interactive fiction) or human player modelling (such as sentiment analysis or playing behaviour).
+There are currently other books that deal with AI in games, such as Millington and Funges's ``Artificial Intelligence for Games''\cite{millington09artificial}, or are exclusive to specific development engines (such as Unity \cite{unity17}). However, what distinguishes this book from the others is that it not only focuses on programming AIs for NPC (Non Playable Characters) in videogames, but also extends its use to other areas such as content generation (for example, terrain generation or interactive fiction) or human player modelling (such as sentiment analysis or playing behaviour).
 
 The book is structured in three parts. The first one offers an overview of the current state of the art, and the different existing techniques that can be applied, such as Evolutionary Computation or Machine Learning, explaining the most important methods of each field and showing examples of use in real games. 
 
